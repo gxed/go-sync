@@ -1,0 +1,22 @@
+{
+  "author": "lanzafame",
+  "bugs": {},
+  "gx": {
+    "dvcsimport": "golang.org/x/sync"
+  },
+  "gxDependencies": [
+    {
+      "author": "whyrusleeping",
+      "hash": "QmRvYNctevGUW52urgmoFZscT6buMKqhHezLUS64WepGWn",
+      "name": "go-net",
+      "version": "0.2.0"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "go-sync",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
